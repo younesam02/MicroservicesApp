@@ -52,7 +52,7 @@ spring-microservices-demo/
 ## Development Team
 
 - [Rida Seqqam](https://github.com/ridaseqqam) - Developer
-- [Younes Ammari](https://github.com/YounesAmmari) - Developer
+- [Younes Ammari](https://github.com/younesam02) - Developer
 
 ## Additional Information
 
